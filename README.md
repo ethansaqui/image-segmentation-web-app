@@ -1,5 +1,7 @@
 # Web-based Image Segmentation with K-Means Algorithm 
 
+Link to deployed web app: https://ethansaqui-digimap-web-implementation-main-tvx9l4.streamlit.app
+
 ## Installation
 To run this app locally, follow these steps:
 
